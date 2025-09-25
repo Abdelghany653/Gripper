@@ -11,7 +11,8 @@ This project focuses on designing and implementing a robotic gripper for a robot
 
 ##  Software Components
 - Arduino IDE  
-- C++ for servo motor control  
+- C++ for servo motor control
+- SolidWorks  
 
 ## Project Structure
 
