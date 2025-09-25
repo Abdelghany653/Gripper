@@ -14,3 +14,6 @@ This project focuses on designing and implementing a robotic gripper for a robot
 - C++ for servo motor control  
 
 ## Project Structure
+## Demo Preview
+
+![Demo](gripper-ezgif.com-video-to-gif-converter.gif)
